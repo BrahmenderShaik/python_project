@@ -6,11 +6,11 @@ print(type(marks))
 for i in range(len(marks)):
     print("list iteam",marks[i])'''
 
-'''person = [123,456,"java","tn","ap",4500.78,"kl"]
+person = [123,456,"java","tn","ap",4500.78,"kl"]
 print(type(person))
 for i in range(len(person)):
     print("current loop number : ",person[i])
-'''
+
 
 for num in range(10,20):
     print(num)
